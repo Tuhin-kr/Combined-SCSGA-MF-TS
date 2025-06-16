@@ -1,0 +1,4 @@
+n_agents = 10000
+m_tasks = 200
+features = 10
+distribution_inst = 5
